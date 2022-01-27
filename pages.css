@@ -45,7 +45,7 @@ h3
 {
   position: absolute;
   top: 450px;
-  left: 600px;
+  left: 550px;
   font-size: 20px;
 }
 
@@ -78,7 +78,7 @@ h3
 .Titre0
 {
   position: absolute;
-  top: 450px;
+  top: 400px;
   left: 270px;
   font-size: 20px;
 }
@@ -86,7 +86,7 @@ h3
 .Profil
 {
   position: absolute;
-  top: 500px;
+  top: 450px;
   left: 200px;
   font-size: 20px;
 }
