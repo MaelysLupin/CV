@@ -87,9 +87,11 @@ h3
 {
   position: absolute;
   top: 740px;
-  left: 600px;
+  left: 550px;
   font-size: 20px;
-  border: 3px #F1DEC8 dashed;
+  border: 3px #F1DEC8 double;
+  background-color: #F1DEC8;
+  
 }
 
 /*-------------------*/
