@@ -1,10 +1,11 @@
-h3
-{
-  text-decoration: underline;
-}
-
 body
 {
     background-color: white; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
 }
+
+h3
+{
+  text-decoration: underline;
+}
+
