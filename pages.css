@@ -36,7 +36,7 @@ h3
 {
   position: absolute;
   top: 730px;
-  left: 400px;
+  left: 380px;
   font-size: 40px;
 }
 
@@ -124,7 +124,7 @@ h3
 .Exppro
 {
   position: absolute;
-  top: 1000px;
+  top: 1100px;
   left: 300px;
   font-size: 20px;
 }
@@ -133,7 +133,7 @@ h3
 .Titre3
 {
   position: absolute;
-  top: 770px;
+  top: 760px;
   left: 250px;
   font-size: 20px;
   border: 2px black ridge;
@@ -151,7 +151,7 @@ h3
 .Titre4
 {
   position: absolute;
-  top: 770px;
+  top: 760px;
   left: 960px;
   font-size: 20px;
   border: 2px black ridge;
