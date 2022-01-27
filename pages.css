@@ -9,7 +9,9 @@ body
 }
 h1
 {
-    style="position: absolute; top: 180 px; left: 100 px;">
+  position: absolute;
+  top: 30px;
+  left: 30px;
 }
 
 h3
