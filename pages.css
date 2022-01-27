@@ -22,11 +22,11 @@ h3
 }
 
 /*-------------------*/
-.Tel
+.Email
 {
   position: absolute;
-  top: 590px;
-  left: 960px;
+  top: 490px;
+  left: 920px;
   font-size: 20px;
 }
 
@@ -38,13 +38,14 @@ h3
   font-size: 20px;
 }
 
-.Email
+.Tel
 {
   position: absolute;
-  top: 470px;
-  left: 920px;
+  top: 570px;
+  left: 960px;
   font-size: 20px;
 }
+
 
 /*-------------------*/
 .Titre1
