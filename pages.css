@@ -22,6 +22,7 @@ h3
   text-decoration: underline;
 }
 
+/*-------------------*/
 .Tel
 {
     color: black;
@@ -32,15 +33,57 @@ h3
     color: black;
 }
 
+/*-------------------*/
 .Titre1
 {
     color: black;
 }
+
+.Competences
+{
+    color: black;
+}
+
+/*-------------------*/
 .Titre2
 {
     color: black;
 }
+
+.Exppro
+{
+    color: black;
+}
+
+/*-------------------*/
 .Titre3
+{
+    color: black;
+}
+
+.Formation
+{
+    color: black;
+}
+
+/*-------------------*/
+.Titre4
+{
+    color: black;
+}
+
+.Langues
+{
+    color: black;
+}
+
+/*-------------------*/
+.Titre5
+{
+    color: black;
+}
+
+.extrapro
 {
     color: black;
 }
