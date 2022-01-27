@@ -25,14 +25,17 @@ h3
 .Tel
 {
   position: absolute;
-  top: 400px;
+  top: 500px;
   left: 800px;
   font-size: 20px;
 }
 
 .Email
 {
-    color: black;
+  position: absolute;
+  top: 400px;
+  left: 800px;
+  font-size: 20px;
 }
 
 /*-------------------*/
