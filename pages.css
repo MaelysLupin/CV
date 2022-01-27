@@ -3,7 +3,7 @@ body
     background-color: white; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
     background-image: url("CV.png");
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: top left; /* Le fond sera placé en haut à gauche */
 }
