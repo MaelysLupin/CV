@@ -36,7 +36,7 @@ h3
 {
   position: absolute;
   top: 700px;
-  left: 500px;
+  left: 200px;
   font-size: 40px;
 }
 
@@ -105,7 +105,7 @@ h3
 .Competences
 {
   position: absolute;
-  top: 830px;
+  top: 850px;
   left: 550px;
   font-size: 20px;
 }
@@ -124,8 +124,8 @@ h3
 .Exppro
 {
   position: absolute;
-  top: 1100px;
-  left: 200px;
+  top: 1000px;
+  left: 300px;
   font-size: 20px;
 }
 
@@ -142,7 +142,7 @@ h3
 .Formation
 {
   position: absolute;
-  top: 870px;
+  top: 900px;
   left: 200px;
   font-size: 20px;
 }
@@ -160,7 +160,7 @@ h3
 .Langues
 {
   position: absolute;
-  top: 870px;
+  top: 900px;
   left: 910px;
   font-size: 20px;
 }
@@ -169,7 +169,7 @@ h3
 .Titre5
 {
   position: absolute;
-  top: 1200px;
+  top: 1300px;
   left: 550px;
   font-size: 20px;
   border: 2px black ridge;
