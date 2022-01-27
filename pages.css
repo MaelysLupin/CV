@@ -23,15 +23,6 @@ h3
 }
 */
 
-#rectangle {
-  width  : 100px;
-  height : 50px;
-  background : #F1DEC8;
-  position: absolute;
-  top: 450px;
-  left: 600px;
-}
-
 /*-------------------*/
 .Photo
 {
@@ -95,9 +86,10 @@ h3
 .Competences
 {
   position: absolute;
-  top: 720px;
+  top: 740px;
   left: 600px;
   font-size: 20px;
+  border: 3px #F1DEC8 dashed;
 }
 
 /*-------------------*/
