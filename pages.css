@@ -58,12 +58,18 @@ h3
 /*-------------------*/
 .Titre0
 {
-    color: black;
+  position: absolute;
+  top: 450px;
+  left: 200px;
+  font-size: 20px;
 }
 
 .Profil
 {
-    color: black;
+  position: absolute;
+  top: 500px;
+  left: 200px;
+  font-size: 20px;
 }
 
 /*-------------------*/
