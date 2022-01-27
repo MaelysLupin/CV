@@ -2,6 +2,7 @@ body
 {
     background-color: white; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
+    background-image: url("CV.png");
 }
 
 h3
