@@ -216,7 +216,7 @@ h3
 .Titre5
 {
   position: absolute;
-  top: 1450px;
+  top: 1500px;
   left: 400px;
   font-size: 20px;
   border: 2px black ridge;
@@ -225,7 +225,7 @@ h3
 .extrapro
 {
   position: absolute;
-  top: 1500px;
+  top: 1550px;
   left: 100px;
   font-size: 20px;
 }
