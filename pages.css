@@ -41,6 +41,23 @@ h3
 }
 
 /*-------------------*/
+.Trait3
+{
+  position: absolute;
+  top: 1100px;
+  left: 700px;
+  font-size: 40px;
+}
+/*-------------------*/
+.Trait4
+{
+  position: absolute;
+  top: 1100px;
+  left: 0px;
+  font-size: 40px;
+}
+
+/*-------------------*/
 .Photo
 {
   position: absolute;
