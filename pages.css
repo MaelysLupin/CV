@@ -57,10 +57,10 @@ h3
   font-size: 40px;
 }
 /*-------------------*/
-.Trait4
+.Trait5
 {
   position: absolute;
-  top: 1600px;
+  top: 1650px;
   left: 0px;
   font-size: 40px;
 }
@@ -224,7 +224,7 @@ h3
 .Titre5
 {
   position: absolute;
-  top: 1500px;
+  top: 1450px;
   left: 400px;
   font-size: 20px;
   border: 2px black ridge;
@@ -233,7 +233,7 @@ h3
 .extrapro
 {
   position: absolute;
-  top: 1550px;
+  top: 1500px;
   left: 100px;
   font-size: 20px;
 }
