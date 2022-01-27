@@ -23,6 +23,15 @@ h3
 }
 */
 
+#rectangle {
+  width  : 100px;
+  height : 50px;
+  background : #F1DEC8;
+  position: absolute;
+  top: 450px;
+  left: 600px;
+}
+
 /*-------------------*/
 .Photo
 {
