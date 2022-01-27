@@ -5,6 +5,7 @@ body
     background-image: url("CV.png");
     background-attachment: scroll;
     background-repeat: no-repeat;
+    background-position: top right; /* Le fond sera placé en haut à droite */
 }
 
 h3
