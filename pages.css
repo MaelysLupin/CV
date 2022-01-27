@@ -62,7 +62,7 @@ h3
 {
   position: absolute;
   top: 450px;
-  left: 250px;
+  left: 270px;
   font-size: 20px;
 }
 
@@ -77,12 +77,18 @@ h3
 /*-------------------*/
 .Titre1
 {
-    color: black;
+  position: absolute;
+  top: 500px;
+  left: 600px;
+  font-size: 20px;
 }
 
 .Competences
 {
-    color: black;
+  position: absolute;
+  top: 520px;
+  left: 600px;
+  font-size: 20px;
 }
 
 /*-------------------*/
