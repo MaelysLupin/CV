@@ -24,6 +24,23 @@ h3
 */
 
 /*-------------------*/
+.Trait1
+{
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  font-size: 20px;
+}
+/*-------------------*/
+.Trait2
+{
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  font-size: 20px;
+}
+
+/*-------------------*/
 .Photo
 {
   position: absolute;
