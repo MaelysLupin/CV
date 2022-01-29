@@ -230,8 +230,8 @@ h1
 .Titre3
 {
   position: absolute;
-  top: 753px;
-  left: 195px;
+  top: 750px;
+  left: 190px;
   font-size: 20px;
   border: 2px black ridge;
   padding: 8px;
@@ -249,7 +249,7 @@ h1
 .Titre4
 {
   position: absolute;
-  top: 753px;
+  top: 750px;
   left: 960px;
   font-size: 20px;
   border: 2px black ridge;
