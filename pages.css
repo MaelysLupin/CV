@@ -16,12 +16,15 @@ h1
   font-family: Times, "Times New Roman", Georgia, serif;
 }
 
-/*
-h3
+/*-------------------*/
+.Descript
 {
-  text-decoration: underline;
+  position: absolute;
+  top: 453px;
+  left: 990px;
+  font-size: 40px;
+  color: grey;
 }
-*/
 
 /*-------------------*/
 .Trait1
@@ -95,7 +98,6 @@ h3
   left: 1200px;
   font-size: 20px;
 }
-
 
 /*-------------------*/
 .Email
