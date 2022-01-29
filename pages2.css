@@ -1,1 +1,267 @@
-idem
+body
+{
+    background-color: white; /* Le fond de la page sera blanc */
+    color: black; /* Le texte de la page sera noir */
+    background-image: url("CV.png");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: 35px 0px;
+}
+h1
+{
+  position: absolute;
+  top: 60px;
+  left: 500px;
+  font-size: 50px;
+  font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+/*
+h3
+{
+  text-decoration: underline;
+}
+*/
+
+/*-------------------*/
+.Trait1
+{
+  position: absolute;
+  top: 730px;
+  left: 700px;
+  font-size: 40px;
+}
+/*-------------------*/
+.Trait2
+{
+  position: absolute;
+  top: 730px;
+  left: 330px;
+  font-size: 40px;
+}
+
+/*-------------------*/
+/*
+.Trait3
+{
+  position: absolute;
+  top: 1030px;
+  left: 800px;
+  font-size: 40px;
+}
+*/
+
+/*-------------------*/
+.Trait4
+{
+  position: absolute;
+  top: 1030px;
+  left: 40px;
+  font-size: 40px;
+}
+/*-------------------*/
+.Trait5
+{
+  position: absolute;
+  top: 1660px;
+  left: 40px;
+  font-size: 40px;
+}
+
+/*-------------------*/
+.Photo
+{
+  position: absolute;
+  top: 450px;
+  left: 550px;
+  font-size: 20px;
+}
+
+/*-------------------*/
+.FR
+{
+  position: absolute;
+  top: 10px;
+  left: 1150px;
+  font-size: 20px;
+}
+
+
+/*-------------------*/
+.ENG
+{
+  position: absolute;
+  top: 10px;
+  left: 1200px;
+  font-size: 20px;
+}
+
+
+/*-------------------*/
+.Email
+{
+  position: absolute;
+  top: 453px;
+  left: 990px;
+  font-size: 20px;
+}
+
+.Link
+{
+  position: absolute;
+  top: 515px;
+  left: 960px;
+  font-size: 20px;
+}
+
+.Tel
+{
+  position: absolute;
+  top: 580px;
+  left: 1000px;
+  font-size: 20px;
+}
+
+/*-------------------*/
+.Titre0
+{
+  position: absolute;
+  top: 450px;
+  left: 220px;
+  font-size: 20px;
+}
+
+.Profil
+{
+  position: absolute;
+  top: 500px;
+  left: 150px;
+  font-size: 20px;
+}
+
+/*-------------------*/
+.Titre1
+{
+  position: absolute;
+  top: 750px;
+  left: 550px;
+  font-size: 20px;
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
+}
+
+.Competences
+{
+  position: absolute;
+  top: 850px;
+  left: 500px;
+  font-size: 20px;
+}
+
+/*-------------------*/
+.Titre2
+{
+  position: absolute;
+  top: 1050px;
+  left: 400px;
+  font-size: 20px;
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
+}
+
+.Exppro
+{
+  position: absolute;
+  top: 1150px;
+  left: 100px;
+  font-size: 20px;
+}
+
+.Ash
+{
+  position: absolute;
+  top: 1180px;
+  left: 150px;
+  font-size: 20px;
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
+}
+
+.Stage
+{
+  position: absolute;
+  top: 1270px;
+  left: 150px;
+  font-size: 20px;
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
+}
+
+.Serveuse
+{
+  position: absolute;
+  top: 1370px;
+  left: 150px;
+  font-size: 20px;
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
+}
+
+.extension
+{
+    color: #F1DEC8;
+}
+
+/*-------------------*/
+.Titre3
+{
+  position: absolute;
+  top: 755px;
+  left: 200px;
+  font-size: 20px;
+  border: 2px black ridge;
+}
+
+.Formation
+{
+  position: absolute;
+  top: 850px;
+  left: 100px;
+  font-size: 20px;
+}
+
+/*-------------------*/
+.Titre4
+{
+  position: absolute;
+  top: 755px;
+  left: 960px;
+  font-size: 20px;
+  border: 2px black ridge;
+}
+
+.Langues
+{
+  position: absolute;
+  top: 850px;
+  left: 910px;
+  font-size: 20px;
+}
+
+/*-------------------*/
+.Titre5
+{
+  position: absolute;
+  top: 1450px;
+  left: 400px;
+  font-size: 20px;
+  border: 2px black ridge;
+}
+
+.extrapro
+{
+  position: absolute;
+  top: 1500px;
+  left: 100px;
+  font-size: 20px;
+}
