@@ -230,8 +230,8 @@ h1
 .Titre3
 {
   position: absolute;
-  top: 755px;
-  left: 200px;
+  top: 753px;
+  left: 195px;
   font-size: 20px;
   border: 2px black ridge;
   padding: 8px;
@@ -249,10 +249,11 @@ h1
 .Titre4
 {
   position: absolute;
-  top: 755px;
+  top: 753px;
   left: 960px;
   font-size: 20px;
   border: 2px black ridge;
+  padding: 8px;
 }
 
 .Langues
