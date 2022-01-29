@@ -16,12 +16,27 @@ h1
   font-family: Times, "Times New Roman", Georgia, serif;
 }
 
-/*
-h3
+/*-------------------*/
+.Descript
 {
-  text-decoration: underline;
+  position: absolute;
+  top: 160px;
+  left: 450px;
+  font-size: 35px;
+  color: grey;
+  font-family: "Lucida Console", Courier, monospace;
 }
-*/
+
+/*-------------------*/
+.Poste
+{
+  position: absolute;
+  top: 350px;
+  left: 150px;
+  font-size: 20px;
+  font-family: "Lucida Console", Courier, monospace;
+  color: grey;
+}
 
 /*-------------------*/
 .Trait1
@@ -95,7 +110,6 @@ h3
   left: 1200px;
   font-size: 20px;
 }
-
 
 /*-------------------*/
 .Email
@@ -216,10 +230,11 @@ h3
 .Titre3
 {
   position: absolute;
-  top: 755px;
-  left: 200px;
+  top: 750px;
+  left: 187px;
   font-size: 20px;
   border: 2px black ridge;
+  padding: 8px;
 }
 
 .Formation
@@ -234,10 +249,11 @@ h3
 .Titre4
 {
   position: absolute;
-  top: 755px;
+  top: 750px;
   left: 960px;
   font-size: 20px;
   border: 2px black ridge;
+  padding: 8px;
 }
 
 .Langues
@@ -255,7 +271,9 @@ h3
   top: 1450px;
   left: 400px;
   font-size: 20px;
-  border: 2px black ridge;
+  /*border: 2px black ridge;*/
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
 }
 
 .extrapro
