@@ -269,7 +269,9 @@ h1
   top: 1450px;
   left: 400px;
   font-size: 20px;
-  border: 2px black ridge;
+  /*border: 2px black ridge;*/
+  border: 10px #F1DEC8 double;
+  background-color: #F1DEC8;
 }
 
 .extrapro
