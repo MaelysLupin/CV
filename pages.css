@@ -78,6 +78,26 @@ h3
 }
 
 /*-------------------*/
+.FR
+{
+  position: absolute;
+  top: 100px;
+  left: 900px;
+  font-size: 20px;
+}
+
+
+/*-------------------*/
+.ENG
+{
+  position: absolute;
+  top: 100px;
+  left: 950px;
+  font-size: 20px;
+}
+
+
+/*-------------------*/
 .Email
 {
   position: absolute;
