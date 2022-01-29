@@ -6,7 +6,6 @@ body
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: 35px 0px;
-    font-family: Georgia;
 }
 h1
 {
@@ -14,7 +13,8 @@ h1
   top: 60px;
   left: 500px;
   font-size: 50px;
-  font-family: Times, "Times New Roman", Georgia, serif;
+  /*font-family: Times, "Times New Roman", Georgia, serif;*/
+  font-family: Georgia;
 }
 
 /*-------------------*/
