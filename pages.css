@@ -105,16 +105,19 @@ h1
 .FR
 {
   position: absolute;
-  margin-left: 90%;
-  background-image:url(Francais.png);
+  top: 10px;
+  left: 1150px;
+  font-size: 20px;
 }
+
 
 /*-------------------*/
 .ENG
 {
   position: absolute;
-  margin-left: 94%;
-  background-image:url(Anglais.png);
+  top: 10px;
+  left: 1200px;
+  font-size: 20px;
 }
 
 /*-------------------*/
