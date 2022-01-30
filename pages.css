@@ -105,6 +105,7 @@ h1
 .FR
 {
   position: absolute;
+  margin-left: 90%;
   background-image:url(Francais.png);
 }
 
@@ -112,6 +113,7 @@ h1
 .ENG
 {
   position: absolute;
+  margin-left: 94%;
   background-image:url(Anglais.png);
 }
 
