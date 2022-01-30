@@ -177,21 +177,14 @@ h1
 {
   position: absolute;
   position: absolute;
-  height: 10%;
   width: 37%;
   margin-left: 28.5%;
-  margin-top: 80%;
+  margin-top: 81%;
   font-size: 20px;
-  border-: 10px solid #F1DEC8;
+  border: 10px solid #F1DEC8;
   border-radius: 5px;
   background-color: #F1DEC8;
-  padding-top: 0.7%;
-  padding-right: 1%;
-  padding-bottom: 0.7%;
-  padding-left: 2%;
   font-size: 20px;
-  border: 10px #F1DEC8 double;
-  background-color: #F1DEC8;
 }
 
 .Exppro
@@ -205,52 +198,37 @@ h1
 .Ash
 {
   position: absolute;
-  height: 10%;
   width: 80%;
   margin-left: 10%;
   margin-top: 91.2%;
   font-size: 20px;
-  border-: 10px solid #F1DEC8;
+  border: 10px solid #F1DEC8;
   border-radius: 5px;
   background-color: #F1DEC8;
-  padding-top: 0.7%;
-  padding-right: 1%;
-  padding-bottom: 0.7%;
-  padding-left: 2%;
 }
 
 .Stage
 {
   position: absolute;
-  height: 10%;
   width: 80%;
   margin-left: 10%;
   margin-top: 98.2%;
   font-size: 20px;
-  border-: 10px solid #F1DEC8;
+  border: 10px solid #F1DEC8;
   border-radius: 5px;
   background-color: #F1DEC8;
-  padding-top: 0.7%;
-  padding-right: 1%;
-  padding-bottom: 0.7%;
-  padding-left: 2%;
 }
 
 .Serveuse
 {
   position: absolute;
-  height: 10%;
   width: 80%;
   margin-left: 10%;
   margin-top: 105.2%;
   font-size: 20px;
-  border-: 10px solid #F1DEC8;
+  border: 10px solid #F1DEC8;
   border-radius: 5px;
   background-color: #F1DEC8;
-  padding-top: 0.7%;
-  padding-right: 1%;
-  padding-bottom: 0.7%;
-  padding-left: 2%;
 }
 
 
