@@ -12,7 +12,7 @@ h1
   position: absolute;
   font-size: 50px;
   padding-top:0%;
-  padding-left:50%;
+  padding-left:37.5%;
   font-family: Times, "Times New Roman", Georgia, serif;
 }
 
@@ -20,7 +20,7 @@ h1
 .Descript
 {
   position: absolute;
-  padding-left:45%;
+  padding-left:33.5%;
   padding-top:10%;
   font-size: 35px;
   color: grey;
@@ -42,53 +42,44 @@ h1
 .Trait1
 {
   position: absolute;
-  top: 730px;
-  left: 700px;
+  padding-top:55.5%;
+  padding-left:18.7%;
   font-size: 40px;
 }
 /*-------------------*/
 .Trait2
 {
   position: absolute;
-  top: 730px;
-  left: 330px;
+  padding-top:55.5%;
+  padding-left:55.7%;
   font-size: 40px;
 }
 
-/*-------------------*/
-/*
-.Trait3
-{
-  position: absolute;
-  top: 1030px;
-  left: 800px;
-  font-size: 40px;
-}
-*/
 
 /*-------------------*/
 .Trait4
 {
   position: absolute;
-  top: 1030px;
-  left: 40px;
+  padding-top:79.5%;
+  padding-left:2.5%;
   font-size: 40px;
 }
 /*-------------------*/
 .Trait5
 {
   position: absolute;
-  top: 1660px;
-  left: 40px;
+  padding-top:113.9%;
+  padding-left:2.5%;
   font-size: 40px;
 }
+
 
 /*-------------------*/
 .Photo
 {
   position: absolute;
   padding-top:40%;
-  padding-left:50%;
+  padding-left:49%;
   font-size: 20px;
 }
 
@@ -140,8 +131,8 @@ h1
 .Titre0
 {
   position: absolute;
-  padding-top:32%;
-  padding-left:20%;
+  padding-top:36%;
+  padding-left:17%;
   font-size: 20px;
 }
 
@@ -149,8 +140,8 @@ h1
 {
   position: absolute;
   width: 20%;
-  padding-top:35%;
-  padding-left:13%;
+  padding-top:40%;
+  padding-left:10%;
   font-size: 20px;
 }
 
@@ -158,7 +149,7 @@ h1
 .Titre1
 {
   position: absolute;
-  margin-left: 50%;
+  margin-left: 42.5%;
   margin-top: 57%;
   font-size: 20px;
   border-left: 10px solid #F1DEC8;
@@ -176,8 +167,8 @@ h1
 .Competences
 {
   position: absolute;
-  top: 850px;
-  left: 500px;
+  padding-top:65%;
+  padding-left:37.5%;
   font-size: 20px;
 }
 
@@ -188,7 +179,7 @@ h1
   position: absolute;
   height: 10%;
   width: 37%;
-  margin-left: 50%;
+  margin-left: 28.5%;
   margin-top: 80%;
   font-size: 20px;
   border-: 10px solid #F1DEC8;
@@ -206,8 +197,8 @@ h1
 .Exppro
 {
   position: absolute;
-  top: 1150px;
-  left: 100px;
+  padding-top:88.5%;
+  padding-left:5%;
   font-size: 20px;
 }
 
@@ -267,7 +258,7 @@ h1
 .Titre3
 {
   position: absolute;
-  margin-left: 15%;
+  margin-left: 7.5%;
   margin-top: 57%;
   font-size: 20px;
   border-left: 10px solid #F1DEC8;
@@ -287,7 +278,7 @@ h1
 {
   position: absolute;
   width: 20%;
-  margin-left: 10%;
+  margin-left: 2.5%;
   margin-top: 65%;
   font-size: 20px;
 }
@@ -296,7 +287,7 @@ h1
 .Titre4
 {
   position: absolute;
-  margin-left: 85%;
+  margin-left: 77.5%;
   margin-top: 57%;
   font-size: 20px;
   border-left: 10px solid #F1DEC8;
@@ -315,7 +306,7 @@ h1
 .Langues
 {
   position: absolute;
-  margin-left: 80%;
+  margin-left: 72.5%;
   margin-top: 65%;
   font-size: 20px;
 }
@@ -324,7 +315,7 @@ h1
 .Titre5
 {
   position: absolute;
-  margin-left: 50%;
+  margin-left: 31.5%;
   margin-top: 115%;
   font-size: 20px;
   border-left: 10px solid #F1DEC8;
@@ -345,7 +336,7 @@ h1
 .extrapro
 {
   position: absolute;
-  margin-left: 20%;
+  margin-left: 10%;
   margin-top: 125%;
   font-size: 20px;
 }
