@@ -2,29 +2,46 @@ body
 {
     background-color: white; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
-    background-image: url("Fond.png");
+    /*background-image: url("Fond.png");*/
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: 35px 0px;
 }
+
+
 h1
 {
   position: absolute;
   font-size: 50px;
-  padding-top:0%;
-  padding-left:37.5%;
   font-family: Times, "Times New Roman", Georgia, serif;
+  background-color: white;
+  margin-left: 28%;
+  margin-top: 1%;
+  border-radius: 5px;
+  padding-top: 3%;
+  padding-bottom: 7%;
+  padding-left: 9%;
+  padding-right: 9%;
 }
 
 /*-------------------*/
 .Descript
 {
   position: absolute;
-  padding-left:33.5%;
-  padding-top:10%;
   font-size: 35px;
   color: grey;
   font-family: "Lucida Console", Courier, monospace;
+  margin-left: 30%;
+  margin-top: 3%;
+  border-left: 5px double black;
+  border-right: 5px double black;
+  border-top: 5px double black;
+  border-bottom: 5px double black;
+  border-radius: 5px;
+  padding-top: 7%;
+  padding-bottom: 0.5%;
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 /*-------------------*/
@@ -98,7 +115,7 @@ h1
 {
   position: absolute;
   padding-top:0%;
-  padding-left:95%;
+  padding-left:93%;
   font-size: 20px;
 }
 
