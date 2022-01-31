@@ -101,14 +101,16 @@ h1
   font-size: 20px;
 }
 
-/*-------------------
+/*-------------------*/
 .button
 {
-  position: absolute;
-  margin-left: 80%;
+  position: relative;
+  border: none;
+  border-raduis: 5px;
+  margin-left: 90%;
   font-size: 20px;
 }
-*/
+
 
 /*-------------------*/
 .button2
