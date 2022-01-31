@@ -114,6 +114,12 @@ h1
 .button2
 {
   position: absolute;
+  background-color: red;
+  border : none;
+  text-align:center;
+  padding :1%;
+  text-decoloration:none;
+  border-raduis:5px;
   margin-left: 94%;
   font-size: 20px;
 }
