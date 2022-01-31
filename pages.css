@@ -113,7 +113,7 @@ h1
 /*-------------------*/
 .button2
 {
-  position: absolute;
+  position: relative;
   background-image: url("Anglais.png");
   border: none;
   text-align: left;
