@@ -73,14 +73,22 @@ h1
   font-size: 40px;
 }
 
-
 /*-------------------*/
-.Trait4
+.Trait3
 {
   position: absolute;
   padding-top:79.5%;
   padding-left:2.5%;
   font-size: 40px;
+}
+
+/*-------------------*/
+.Trait4
+{
+  position: absolute;
+  padding-top:140%;
+  padding-left:2.5%;
+  font-size: 20px;
 }
 /*-------------------*/
 .Trait5
