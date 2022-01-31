@@ -104,7 +104,6 @@ h1
 /*-------------------*/
 .button
 {
-  position: absolute;
   border: none;
   border-raduis: 5px;
   margin-left: 90%;
@@ -117,7 +116,6 @@ h1
 /*-------------------*/
 .button2
 {
-  position: absolute;
   border: none;
   border-raduis: 5px;
   margin-left: 94%;
