@@ -2,13 +2,20 @@ body
 {
     background-color: white; /* Le fond de la page sera blanc */
     color: black; /* Le texte de la page sera noir */
-    background-image: url("Fond.png");
+    /*background-image: url("Fond.png");*/
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: 35px 0px;
     background-size:100% auto;
 }
 
+.Fond
+{
+  position: absolute;
+  padding-top:0%;
+  padding-left:0%;
+  width:100%;
+}
 
 h1
 {
